@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  cenylcz-domain:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-10-16T09:42:45.207075-07:00"
+    description: A Helm chart for Kubernetes
+    digest: 14650bf0c2474d21cb899e20262e256bd4d86de839689edb5d32adeea07ca9c1
+    name: cenylcz-domain
+    urls:
+    - https://strtsoia1983.github.io/helm-chart/cenylcz-domain-0.1.0.tgz
+    version: 0.1.0
+generated: "2019-10-16T09:42:45.206562-07:00"
