@@ -3,11 +3,21 @@ entries:
   cenylcz-domain:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-10-16T09:42:45.207075-07:00"
+    created: "2019-10-23T07:54:01.191614-07:00"
     description: A Helm chart for Kubernetes
     digest: 14650bf0c2474d21cb899e20262e256bd4d86de839689edb5d32adeea07ca9c1
     name: cenylcz-domain
     urls:
     - https://strtsoia1983.github.io/helm-chart/cenylcz-domain-0.1.0.tgz
     version: 0.1.0
-generated: "2019-10-16T09:42:45.206562-07:00"
+  cenylcz-server:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-10-23T07:54:01.192114-07:00"
+    description: A Helm chart for cenylcz-server
+    digest: 620af315007ec4071ad903bd3c2eb8690d9ed529d1e2a616da31eef1b0b9b83d
+    name: cenylcz-server
+    urls:
+    - https://strtsoia1983.github.io/helm-chart/cenylcz-server-0.1.0.tgz
+    version: 0.1.0
+generated: "2019-10-23T07:54:01.191097-07:00"
