@@ -2,18 +2,8 @@ apiVersion: v1
 entries:
   cenylcz-db:
   - apiVersion: v2
-    appVersion: 0.1.0
-    created: "2020-02-19T21:36:53.63838-08:00"
-    description: A Helm chart for cenylcz-db
-    digest: 2c14ae9f9c7d02e6a90675ef0bc266ec1ab208011280ebf794a7b4ab43474302
-    name: cenylcz-db
-    type: application
-    urls:
-    - https://strtsoia1983.github.io/helm-chart/cenylcz-db-0.1.0.tgz
-    version: 0.1.0
-  - apiVersion: v2
     appVersion: 0.0.1
-    created: "2020-02-19T21:36:53.637444-08:00"
+    created: "2020-02-19T21:43:25.106735-08:00"
     description: A Helm chart for cenylcz-db
     digest: 5d727726667b8b5968f7262c2720c90db41aade4a3de2eb27bb7b432e4d009f7
     name: cenylcz-db
@@ -21,4 +11,4 @@ entries:
     urls:
     - https://strtsoia1983.github.io/helm-chart/cenylcz-db-0.0.1.tgz
     version: 0.0.1
-generated: "2020-02-19T21:36:53.634512-08:00"
+generated: "2020-02-19T21:43:25.104807-08:00"
