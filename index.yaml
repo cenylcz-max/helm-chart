@@ -2,13 +2,13 @@ apiVersion: v1
 entries:
   cenylcz-db:
   - apiVersion: v2
-    appVersion: 1.0.0
-    created: "2021-04-11T14:49:19.918614-07:00"
+    appVersion: 0.0.1
+    created: "2021-04-11T20:58:45.424414-07:00"
     description: A Helm chart for cenylcz-db
-    digest: ed4885a01afa7ee6432727e4df623fea850ea3bb6030fbe91d3d13893fa54ecb
+    digest: 526e3a1488d35a51e35b58856e40e15ea40c1a7e240eb27223dcbd47cd05c5db
     name: cenylcz-db
     type: application
     urls:
     - https://cenylcz-max.github.io/helm-chart/cenylcz-db-0.0.1.tgz
     version: 0.0.1
-generated: "2021-04-11T14:49:19.916467-07:00"
+generated: "2021-04-11T20:58:45.418913-07:00"
